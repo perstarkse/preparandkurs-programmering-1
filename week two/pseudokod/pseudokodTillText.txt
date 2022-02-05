@@ -1,0 +1,18 @@
+Övning 1: 
+
+Frågar användaren vilket år den föddes
+Sparar årtalet
+Skriver ut personens nuvarande ålder
+
+Övning 2:
+
+Sparar siffra
+SÅ LÄNGE siffra är under 100
+	Addera ett till siffra
+Skriv nu har programmet räknat klart
+
+Övning 3:
+Fråga om användaren vill höra ett skämt, tydliggör input Ja/Nej
+OM Ja, berätta skämt.
+ANNARS
+	Skriv Programmet avslutas

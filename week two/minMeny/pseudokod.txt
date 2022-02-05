@@ -1,0 +1,4 @@
+Presentera en meny med tre alternativ
+Alternativ ett, sparar en sträng och går tillbaka till menyn
+Alternativ två, visar den sparade strängen och går tillbaka till menyn
+Alternativ tre, avslutar programmet
