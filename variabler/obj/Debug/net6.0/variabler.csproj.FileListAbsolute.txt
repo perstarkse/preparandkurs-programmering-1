@@ -1,0 +1,15 @@
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.csproj.AssemblyReference.cache
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.AssemblyInfoInputs.cache
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.AssemblyInfo.cs
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.csproj.CoreCompileInputs.cache
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\bin\Debug\net6.0\variabler.exe
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\bin\Debug\net6.0\variabler.deps.json
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\bin\Debug\net6.0\variabler.runtimeconfig.json
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\bin\Debug\net6.0\variabler.dll
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\bin\Debug\net6.0\ref\variabler.dll
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\bin\Debug\net6.0\variabler.pdb
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.dll
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\ref\variabler.dll
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.pdb
+C:\Users\sprlk\Dokument\Kodning\preparandkurs-programmering-1\variabler\obj\Debug\net6.0\variabler.genruntimeconfig.cache
