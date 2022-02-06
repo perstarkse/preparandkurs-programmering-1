@@ -7,10 +7,9 @@ class MinMeny
         bool running = true;
         while (running)
         {
-            try
+            int.TryParse(Console.ReadLine(), out int menyval);
+            switch (menyval)
             {
-                switch (int.Parse(Console.ReadLine()))
-                {
                     case 1:
                         minString = Console.ReadLine();
                         break;
@@ -24,13 +23,6 @@ class MinMeny
                         Console.WriteLine("välj ett av de tre valen tack");
                         break;
                 }
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            //int.TryParse(Console.ReadLine(), out int menyval);
-
         }
     }
 }
