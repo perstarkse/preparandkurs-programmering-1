@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\listor\\listor.csproj",
-      "projectName": "listor",
-      "projectPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\listor\\listor.csproj",
+      "projectUniqueName": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\foreach.csproj",
+      "projectName": "foreach",
+      "projectPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\foreach.csproj",
       "packagesPath": "C:\\Users\\sprlk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\listor\\obj\\",
+      "outputPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sprlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
