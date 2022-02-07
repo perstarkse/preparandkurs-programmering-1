@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vektorer", "vektorer.csproj", "{2B919672-F449-4755-A866-D6CDE38C3446}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listor", "listor.csproj", "{6BB6CA1D-EECA-4F07-ACBD-9CEF09FA326B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B919672-F449-4755-A866-D6CDE38C3446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B919672-F449-4755-A866-D6CDE38C3446}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B919672-F449-4755-A866-D6CDE38C3446}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B919672-F449-4755-A866-D6CDE38C3446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB6CA1D-EECA-4F07-ACBD-9CEF09FA326B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB6CA1D-EECA-4F07-ACBD-9CEF09FA326B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB6CA1D-EECA-4F07-ACBD-9CEF09FA326B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB6CA1D-EECA-4F07-ACBD-9CEF09FA326B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {096773CF-81EA-4976-B67E-D0AF90F0FD2D}
+		SolutionGuid = {AE1ABF0D-F6E7-46F2-9DED-F1F16810ECAF}
 	EndGlobalSection
 EndGlobal
