@@ -82,6 +82,6 @@ class Hund
                     Console.WriteLine("välj ett av de tre valen tack");
                     break;
             }
-        }//Console.WriteLine(hundLista[0].Namn + hundLista[0].Ålder + hundLista[0].Levande);
+        }
     }
 }
