@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\foreach.csproj": {}
+    "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fem\\sångklassen\\sångklassen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\foreach.csproj": {
+    "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fem\\sångklassen\\sångklassen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\foreach.csproj",
-        "projectName": "foreach",
-        "projectPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\foreach.csproj",
+        "projectUniqueName": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fem\\sångklassen\\sångklassen.csproj",
+        "projectName": "sångklassen",
+        "projectPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fem\\sångklassen\\sångklassen.csproj",
         "packagesPath": "C:\\Users\\sprlk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fyra\\foreach\\obj\\",
+        "outputPath": "C:\\Users\\sprlk\\Dokument\\Kodning\\preparandkurs-programmering-1\\vecka fem\\sångklassen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sprlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
